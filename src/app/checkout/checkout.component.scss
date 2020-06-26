@@ -1,0 +1,25 @@
+.col-sm{
+    padding-left: 10px;
+    padding-right: 0;
+}
+.horizontal-scroll{
+    overflow-x: auto; 
+     float: none;
+}
+.card{
+    width: fit-content;
+}
+.card-body{
+    padding: 1rem;
+}
+.card-img-top{
+    height: 140px;
+	width: 140px;
+}
+.bottom-left{
+right: 0;
+height: 30px; 
+position: absolute;
+bottom: 0;
+margin: 15px;
+}
